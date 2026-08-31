@@ -17,7 +17,7 @@ my labs, projects, and ongoing technical learning.
 Feel free to explore my projects or reach out through my
 [LinkedIn](https://www.linkedin.com/in/bobjasonlegaspi/).
 
-# 💻 PROJECTS
+# 📁 PROJECTS
 ## 🖥️ IT Administration & Systems
 
 Projects involving systems administration, networking,
