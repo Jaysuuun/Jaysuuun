@@ -17,4 +17,8 @@ and web development projects.
 
 Feel free to explore my projects or reach out through my
 [LinkedIn](https://www.linkedin.com/in/bobjasonlegaspi/).
+
 # 💻 PROJECTS
+## 🖥️ IT Administration & Systems
+
+- [Active Directory Home Lab](https://github.com/Jaysuuun/Personal-Homelab)
