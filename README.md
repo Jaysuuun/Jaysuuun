@@ -21,4 +21,22 @@ Feel free to explore my projects or reach out through my
 # 💻 PROJECTS
 ## 🖥️ IT Administration & Systems
 
+Projects involving systems administration, networking,
+infrastructure, and cybersecurity.
+
 - [Active Directory Home Lab](https://github.com/Jaysuuun/Personal-Homelab)
+
+## 🎮 Game Development
+
+Projects exploring game development, programming,
+game systems, and interactive applications.
+
+- [Pong Game in C](https://github.com/Jaysuuun/Pong-using-SDL2-with-C)
+
+
+## 🌐 Web Development
+
+Projects involving frontend, backend, databases,
+APIs, and full-stack web applications.
+
+- [Student Information System](https://github.com/Jaysuuun/Student-Information-System-Web-App)
